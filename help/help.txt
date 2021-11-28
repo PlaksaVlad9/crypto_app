@@ -1,0 +1,3 @@
+I used:
+https://app.netlify.com/teams/plaksavlad9/overview
+https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
